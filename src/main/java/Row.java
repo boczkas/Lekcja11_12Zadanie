@@ -9,6 +9,9 @@ public class Row {
     }
 
     public void initialize(int size) {
+        for (int i = 0; i < size; i++) {
+            fields.add(new Field("_"));
+        }
     }
 
     public void show() {
