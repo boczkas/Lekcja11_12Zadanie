@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+//          Zadanie jest symulacją planszy do gry.
+//        Board - plansza - posiada listę wierszy (Row)
+//        Row - wiersz - posiada listę pól (Field)
+//        Field - posiada symbol
 //        Napraw kod tak, aby po wpisaniu rozmiaru tablicy 3 na konsoli pojawiło się:
 //          _ _ _
 //          _ _ _
